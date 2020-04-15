@@ -1,0 +1,24 @@
+{
+    "plugins": [
+        "hide-element",
+        "back-to-top-button",
+        "expandable-chapters",
+        "code",
+        "splitter",
+        "-lunr", 
+        "-search", 
+        "search-pro",
+        "insert-logo",
+        "popup",
+        "pageview-count"
+    ],
+    "pluginsConfig": {
+        "hide-element": {
+            "elements": [".gitbook-link"]
+        },
+        "insert-logo": {
+            "url": "Resource/产品简介/产品概述/MySQL.png",
+            "style": "background: none; max-height: 30px; min-height: 30px"
+        }
+    }
+}
